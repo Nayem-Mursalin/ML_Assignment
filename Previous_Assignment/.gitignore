@@ -1,0 +1,6 @@
+bank-full.csv
+Archive
+*.jpeg
+*.csv
+.DS_Store
+.ipynb_checkpoints
